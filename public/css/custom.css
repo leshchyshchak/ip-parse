@@ -1,0 +1,42 @@
+.display-flex-center-between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.display-flex-center-right {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.pagination-block .pagination {
+    justify-content: center;
+}
+
+.margin-right-10 {
+    margin-right: 10px;
+}
+
+.width-33 th,
+.width-33 td {
+    width: 33.3%;
+}
+
+.border-none th,
+.border-none td {
+    border: none;
+}
+
+.margin-bottom0 {
+    margin-bottom: 0;
+}
+
+.margin-top-15 {
+    margin-top: 15px;
+}
+
+.width-65 tr th,
+.width-65 tr td {
+    width: 65%;
+}
